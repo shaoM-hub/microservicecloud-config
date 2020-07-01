@@ -31,7 +31,7 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka
   instance:
     instance-id: dept-8001.com
-    prefer-ip-address: ture
+    prefer-ip-address: true
 info:
   app.name: atguigu-microservicecloud
   company.name: www.atguigu.com
@@ -65,7 +65,7 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka
   instance:
       instance-id: dept-8001.com
-      prefer-ip-address: ture
+      prefer-ip-address: true
 info:
   app.name: atguigu-microservicecloud
   company.name: www.atguigu.com
